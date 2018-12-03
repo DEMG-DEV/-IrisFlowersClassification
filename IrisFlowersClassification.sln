@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisFlowersClassification", "IrisFlowersClassification\IrisFlowersClassification.csproj", "{E706E087-8CBC-4045-ACD9-684BF0649C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E706E087-8CBC-4045-ACD9-684BF0649C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E706E087-8CBC-4045-ACD9-684BF0649C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E706E087-8CBC-4045-ACD9-684BF0649C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E706E087-8CBC-4045-ACD9-684BF0649C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E6C441D-A721-47DC-9C00-DF009FEF9F89}
+	EndGlobalSection
+EndGlobal
